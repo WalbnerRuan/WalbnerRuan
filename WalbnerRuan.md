@@ -19,5 +19,6 @@
 
 #### Entre em contato
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wroche.ifce@gmail.com)
 
