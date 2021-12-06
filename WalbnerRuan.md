@@ -1,0 +1,18 @@
+**Walbner Ruan Nunes Saraiva**
+-
+**Sobre mim**
+
+ - :rocket: Iniciando minha jornada na stack de front-end
+ - :computer: Analista de sistemas
+ - :art: UI/UX e Web Designer
+
+ **Learning** 
+
+ <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+
+**Entre em contato**
+
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wroche.ifce@gmail.com)
+
