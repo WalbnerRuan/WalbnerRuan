@@ -22,3 +22,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walbner-saraiva-6597b51ab/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wroche.ifce@gmail.com)
 
+![Snake animation](https://github.com/WalbnerRuan/WalbnerRuan/blob/output/github-contribution-grid-snake.svg)
