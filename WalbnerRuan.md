@@ -7,8 +7,8 @@
 
 #### Skills
 
-<img height="26" alt="figma" src="https://i.imgur.com/nWOk023.png"  />
- <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+<img height="26" alt="figma" src="https://i.imgur.com/nWOk023.png"> &nbsp;
+<img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 
  #### Learning
